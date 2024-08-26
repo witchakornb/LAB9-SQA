@@ -13,8 +13,8 @@ Currency Exchanger เป็นโปรแกรม Python สำหรับ�
 
 1. โคลนโปรเจคนี้:
    ```
-   git clone https://github.com/yourusername/currency-exchanger.git
-   cd currency-exchanger
+   git clone https://github.com/witchakornb/LAB9-SQA.git
+   cd LAB9-SQA
    ```
 
 2. ติดตั้ง dependencies:
